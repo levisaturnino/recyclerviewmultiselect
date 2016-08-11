@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ActionModeDemo</string>
+
+<string-array name="times">
+
+    <item>Palmeiras</item>
+    <item>Corinthians</item>
+    <item>Fluminense</item>
+    <item>Santos</item>
+    <item>Flamengo</item>
+    <item>Internacional</item>
+    <item>Vasco</item>
+    <item>Grêmio</item>
+    <item>Goiás</item>
+</string-array>
+
+
+    <string-array name="email">
+
+        <item>Palmeiras@abc.com</item>
+        <item>Corinthians@abc.com</item>
+        <item>Fluminense@abc.com</item>
+        <item>Santos@abc.com</item>
+        <item>Flamengo@abc.com</item>
+        <item>Internacional@abc.com</item>
+        <item>Vasco@abc.com</item>
+        <item>Grêmio@abc.com</item>
+        <item>Goiás@abc.com</item>
+    </string-array>
+</resources>
